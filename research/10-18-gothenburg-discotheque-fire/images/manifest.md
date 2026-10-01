@@ -1,0 +1,17 @@
+# Image manifest — 10-18-gothenburg-discotheque-fire
+
+Freely licensed images only. Downloaded from Wikimedia Commons on 2026-10-01. Photos are 1600 px-wide renditions where the original is larger; maps are PNG renders of SVG originals.
+Each image's source, licence, and author is listed below. **Attribution is required for every CC BY / CC BY-SA / "Attribution" file.** CC BY-SA also requires share-alike for derivative images.
+
+If a file is missing, under 5 KB, or is actually HTML, the download was rate-limited (HTTP 429). Re-download from the 'Original URL' column.
+
+| File | Commons page | Original URL | Licence | Author / credit | Date | Description | Notes | Status |
+|---|---|---|---|---|---|---|---|---|
+| memorial-backaplan-unveiled-2008.jpg | https://commons.wikimedia.org/wiki/File:Minnesmarke_diskobranden_Gbg.JPG | https://upload.wikimedia.org/wikipedia/commons/8/8c/Minnesmarke_diskobranden_Gbg.JPG | CC BY-SA 3.0 | Rolf Broberg | 2008-10-29 | The just unveiled monument at Backaplan, Gothenburg, Sweden, by Claes Hake in memory of the 63 young people who died in the flames in a disc |  | **not downloaded (rate-limited)** |
+| memorial-stone-2012.jpg | https://commons.wikimedia.org/wiki/File:Backabranden_minnesstenen_2012.jpg | https://upload.wikimedia.org/wikipedia/commons/c/ca/Backabranden_minnesstenen_2012.jpg | CC BY-SA 3.0 | Albin Olsson | 2012-05-29 | Minnessten skapad av Claes Hake. |  | downloaded |
+| police-aerial-herkulesgatan-1998.jpg | https://commons.wikimedia.org/wiki/File:Flygbild_%C3%B6ver_Herkulesgatan_1_efter_backabranden.jpg | https://upload.wikimedia.org/wikipedia/commons/8/85/Flygbild_%C3%B6ver_Herkulesgatan_1_efter_backabranden.jpg | Attribution | Polismyndigheten i Västra Götaland. | 1998-10-30 | Helikopterbild med riktning sydväst över Herkulesgatan dagen efter backabranden. | Official police photo, day after the fire. Credit Polismyndigheten i Västra Götaland. | downloaded |
+| premises-herkulesgatan-2015.jpg | https://commons.wikimedia.org/wiki/File:Backabrandens_lokaler_i_mars_2015.jpg | https://upload.wikimedia.org/wikipedia/commons/0/0a/Backabrandens_lokaler_i_mars_2015.jpg | CC BY-SA 3.0 | Averater | 2015-03-08 10:32:41 | Backabrandens lokaler i mars 2015. |  | downloaded |
+| shk-backaplan-exterior-overview.png | https://commons.wikimedia.org/wiki/File:%C3%96versikt_%C3%B6ver_var_Makedoniska_f%C3%B6reningens_lokaler_p%C3%A5_Backaplan_exteri%C3%B6r.png | https://upload.wikimedia.org/wikipedia/commons/6/64/%C3%96versikt_%C3%B6ver_var_Makedoniska_f%C3%B6reningens_lokaler_p%C3%A5_Backaplan_exteri%C3%B6r.png | Attribution | Statens haverikommission | 2001-06-28 | Översikt över var Makedoniska föreningens lokaler på Backaplan var där backabranden ägde rum. Huset är Herkulesgatan 1. | Official SHK graphic. Credit Statens haverikommission (2001). | downloaded |
+| shk-backaplan-interior-plan.png | https://commons.wikimedia.org/wiki/File:%C3%96versikt_%C3%B6ver_Makedoniska_f%C3%B6reningens_lokaler_p%C3%A5_Backaplan_interi%C3%B6r.png | https://upload.wikimedia.org/wikipedia/commons/f/f4/%C3%96versikt_%C3%B6ver_Makedoniska_f%C3%B6reningens_lokaler_p%C3%A5_Backaplan_interi%C3%B6r.png | Attribution | Statens haverikommission | 2001-06-28 | Översikt över Makedoniska föreningens lokaler på Backaplan med måttangivelser där backabranden ägde rum. | Official SHK floor plan. Credit Statens haverikommission (2001). | downloaded |
+
+Not evidence unless marked official. These images are location, map, and public-record context only. No AI-generated images are included.

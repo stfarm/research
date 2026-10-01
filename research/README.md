@@ -53,7 +53,7 @@ Web fetching mostly worked. These blocked automated retrieval, so their facts re
 - BBC, The Guardian, The Herald (excluded from the search tool)
 - FBI.gov (403), TDCJ executed-offender page (404 at old address)
 
-Wikimedia Commons rate-limited the session's IP repeatedly (HTTP 429). See each `images/manifest.md` for download status.
+Wikimedia Commons rate-limited the session's IP repeatedly (HTTP 429). 29 of 30 selected images were downloaded; the 2008 Backaplan memorial photo (10-18) must be fetched manually. See each `images/manifest.md`.
 
 ## Quality check
 

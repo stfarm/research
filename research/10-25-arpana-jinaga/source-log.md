@@ -20,6 +20,13 @@ Access date for every source: **2026-10-10**. "Fetched" = page text read. "Snipp
 | 10-25-S006 | "Halloween party horror! Who killed Red Riding Hood?" | Take 5 / Now To Love (Australia) | Magazine (secondary) | 2025-01-20 | https://www.nowtolove.com.au/news/real-life/take-5/halloween-party-horror-who-killed-red-riding-hood/ | **Little Red Riding Hood costume** (cloak, basket); decorated apartment as a "haunted forest"; party themed areas; guests moved to another unit ~9 p.m.; ~3 a.m. return; family in India asked a family friend to check; front door kicked in; evidence contamination; Fair acquitted, suing; unsolved. **Names neighbours — do not repeat names.** | Fetched — magazine; use only for costume/décor, attributed |
 | 10-25-S007 | *Fair v. King County et al.*, No. 2:21-cv-01706 (W.D. Wash.), Doc. 208 | U.S. District Court (via Justia listing) | Court docket (primary) | 2025 | https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2021cv01706/306377/208/ | Civil case active in 2025 (expert-exclusion order). | Listing only (403) |
 
+## Sources added 2026-10-11 (status recheck)
+
+| ID | Title | Publisher | Type | Pub. date | URL | Supports | Status |
+|---|---|---|---|---|---|---|---|
+| 10-25-S008 | *Fair v. King County*, No. 21-CV-01706-JHC, **Pretrial Order** (Judge John H. Chun) | U.S. District Court, W.D. Wash. (via vLex) | **Court record (primary)** | 2026-08-31 | https://case-law.vlex.com/vid/fair-v-king-cnty-1133382439 | Remaining claims; defences; **admitted facts**: murdered at Valley View Apartments, Redmond, morning of Nov 1, 2008, after she **hosted a Halloween party with other residents** on Oct 31; ME: asphyxiation by strangulation; Jeff Baird (senior DPA) and Det. Brian Coats roles; Coats signed probable-cause certification. | Fetched (rendered) |
+| 10-25-S009 | *Fair v. King County* docket (2:21-cv-01706) | CourtListener (RECAP/PACER mirror) | **Court docket (primary)** | last filing 2026-10-02; page updated 2026-10-08 | https://www.courtlistener.com/docket/61650204/fair-v-king-county/ | Jury trial held Sept 29–30; final jury instructions Sept 30; **Jury Verdict (Dkt 414) Oct 1, 2026**; **Judgment by Court (Dkt 415) Oct 2, 2026**; UniCourt lists case "Closed" (updated Oct 2, 2026). Documents themselves are PACER-only — **verdict content not read**. | Docket list read (rendered) |
+
 ## Contradictions
 
 | Point | Conflict | Handling |

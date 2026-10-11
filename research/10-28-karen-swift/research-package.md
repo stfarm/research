@@ -5,7 +5,7 @@ Research package. Not a script. Researched 2026-10-10.
 > ## READ FIRST — CRITICAL LEGAL RISK
 > - **No one has been convicted.** Her husband **David Swift was acquitted** of first- and second-degree murder (June 6, 2024). The jury hung on voluntary manslaughter; that count was **dismissed as time-barred on March 17, 2025**. [10-28-S002, 10-28-S003]
 > - In **March 2026** David Swift sued the county, sheriff and DA in federal court alleging wrongful prosecution. [10-28-S005]
-> - Whether the State's appeal of the dismissal (announced March 2025) is pending or resolved is **unknown**. Check before publishing. [10-28-S004]
+> - Whether the State's appeal of the dismissal (announced March 2025) was pursued or decided is **unknown**: searched 2026-10-11 — no Tennessee Court of Criminal Appeals opinion found (tncourts.gov search returned none), and neither the March 2026 lawsuit coverage nor any other report mentions a pending appeal. Production must not say the appeal failed, succeeded or is pending. [10-28-S004, 10-28-S005, 10-28-S009, 10-28-S010]
 > - **The story must be told as an unsolved homicide** with an acquitted defendant. Never imply David Swift killed Karen; the prosecution's theory may be presented only as what prosecutors alleged, paired with the verdict.
 > - He also faces (faced) an unrelated Alabama stalking charge (2023); status not verified. Do not use it to imply guilt. [10-28-S002]
 
@@ -56,7 +56,7 @@ Research package. Not a script. Researched 2026-10-10.
 | Mar 2025 | DA Danny Goodman says/files appeal | 10-28-S004 | Medium |
 | Mar 13, 2026 | David Swift files federal civil-rights suit | 10-28-S005 | High |
 
-## Legal status (verified 2026-10-10)
+## Legal status (searched 2026-10-11; latest corroborated record: Mar 13, 2026 lawsuit report)
 
 | Item | Status | Source |
 |---|---|---|

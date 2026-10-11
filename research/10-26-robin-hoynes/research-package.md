@@ -44,7 +44,7 @@ Research package. Not a script. Researched 2026-10-10.
 | Sept 27–28, 2006 | Grand-jury indictment (murder + robbery special circumstance); arrest at Thousand Palms firehouse; not-guilty plea | 10-26-S001 | High |
 | Oct 2007 | Jury convicts of first-degree murder; life sentence at a Friday hearing before Oct 31 | 10-26-S002, 10-26-S003 | High |
 
-## Legal status (verified 2026-10-10)
+## Legal status (searched 2026-10-10; latest corroborated record: Aug 3, 2022 Oxygen recap of the 2007 conviction — no later custody record found)
 
 | Person | Outcome | Status | Source |
 |---|---|---|---|

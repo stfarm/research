@@ -24,6 +24,14 @@ Access date for every source: **2026-10-10** unless noted. "Fetched" = page text
 | 10-23-S010 | Journal Times (Racine): "Girl-killer set free" (1992-10-14); "Turner sent back to jail" (1993-11-24); Chicago Tribune: "Was child rapist set free 6 years too soon?" (1993-11-30) | Journal Times; Chicago Tribune | Journalism (contemporaneous) | 1992–1993 | https://journaltimes.com/news/national/girl-killer-set-free/article_34dd7df3-28af-5146-991c-3096f5b8557e.html ; https://www.chicagotribune.com/news/ct-xpm-1993-11-30-9311300136-story.html | 1992 release and 1993 return (cited by S002). | **Not read** (paywall/blocked). Leads. |
 | 10-23-S011 | Marv Balousek, *50 Wisconsin Crimes of the Century* (Badger Books, 1997), pp. 253–254 | Book | Secondary | 1997 | https://books.google.com/books?id=N-ADw_YTkwMC&pg=PA253 | Girlfriend Arlene Penn; confession account (cited by S002). | Not read |
 
+## Sources added 2026-10-11 (status recheck)
+
+| ID | Title | Publisher | Type | Pub. date | URL | Supports | Status |
+|---|---|---|---|---|---|---|---|
+| 10-23-S012 | "Trial to determine if 'Halloween Killer' will be kept in custody postponed" (Brian Kerhin) | FOX 11 / WLUK | Local TV | 2024-03-08 | https://fox11online.com/news/local/trial-to-determine-if-halloween-killer-will-be-kept-in-custody-postponed-gerald-turner-fond-du-lac-lisa-ann-french-taycheedah-trick-or-treating-child-sexual-assault-murder-sand-ridge-mauston | Apr 16, 2024 trial moved to Dec 9, 2024; Turner, 74, at Sand Ridge; returned to prison "that same year" after 1992 release (conflicts with 1993 elsewhere). | Fetched (rendered) |
+| 10-23-S013 | "Decision on future of 'Halloween killer' pushed off" (Brian Kerhin) | FOX 11 / WLUK | Local TV | 2024-10-04 | https://fox11online.com/news/crime/gerald-turner-fond-du-lac-halloween-killer-lisa-french-trick-or-treating-murder-sexual-assault-child-body-town-taycheedah-state-commitment-trial-postponed | Defence summary-judgment motion; Dec 9 trial replaced by motion hearing; no new trial date; Judge Anthony Nehls. | Fetched (rendered) |
+| 10-23-S014 | "Trial date set for 'Halloween Killer' seeking release from supervised facility" (Cami Rapson) | WBAY-TV | Local TV | 2026-05-21 | https://www.wbay.com/2026/05/21/trial-date-set-halloween-killer-seeking-release-supervised-facility/ | Jury trial set for **January 2027**; Turner 77; held at a supervised facility after a probable-cause finding. **States release "in 1994" — conflicts with 1992 in S002/S007; ignore.** | Fetched (rendered) |
+
 ## What is independently corroborated
 
 | Fact | Independent sources |

@@ -1,6 +1,6 @@
 # Exclusion inventory — October 23–31, 2026 slots
 
-Built 2026-10-10 to prevent repeats. Companion to [`october-23-31-research-index.md`](october-23-31-research-index.md).
+Built 2026-10-10; **re-run 2026-10-11** for the revised lineup (replacements Cindy Song and Chris Jenkins; Napa ↔ Halbach slot swap). Companion to [`october-23-31-research-index.md`](october-23-31-research-index.md).
 
 ## Records inspected
 
@@ -15,6 +15,8 @@ Built 2026-10-10 to prevent repeats. Companion to [`october-23-31-research-index
 | R7 | Production repo default branch | `stfarm/thishappenedstories` · `feature/v1-production-pipeline` · `7a7482c` | `productions/` POCs (Sarah Boone, Angela Craig, Kim Wall, Patrick Dearth); story digests (Kouri Richins, James/Angela Craig, Sarah Boone) |
 | R8 | Video standard ledger | R7 · `docs/THIS-HAPPENED-VIDEO-STANDARD.md` | Approved 001 Sarah Boone, 002 Angela Craig, 003 Kim Wall, 004 The Caller at Mile 47 |
 | R9 | Other branches | `codex/story-hector-larissa-flores` (`1bef2ca`), `codex/youtube-long-009-012` (`af9e026`), `pydantic/story-22-poc` (`80a79c3`) | Hector/Larissa Flores = story 005 work (2026-08); long-form 009–012 |
+| R1b | **Newer production snapshot** (re-checked 2026-10-11) | `stfarm/thishappenedstories` · `hermes/production-workflow` · **`1b177f0`** (2026-10-10 22:12 −0400, "10-21") | Adds production folders `assets/stories/10-20-von-richthofen` and `10-21-shauna-howe`; calendar rows 10-23–10-31 unchanged (10-23 Lisa Ann French; others TBD) |
+| R1c | Hermes candidate shortlist | same commit · `docs/intel/halloween-case-candidates-2026.md` (researched 2026-09-29) | Candidate pool, **not assignments**: O'Bryan, Moxley, Devil's Night, Sylvia Likens, Benz/Garrett, Ledford, NYC truck attack, Orinda, Jacob Wetterling, War of the Worlds, honorable mentions. Its truck-attack entry says Saipov was "sentenced to death" — **wrong** (jury split → eight consecutive life terms; DOJ 2023). |
 | R10 | Notion workspace search ("This Happened October story calendar"); Google Drive full-text search ("This Happened", modified since 2026-08-01) | Connected accounts | **No ThisHappened schedule found** |
 
 ## Exclusion list (case-level)
@@ -88,32 +90,36 @@ Matching rule: a case is excluded if any victim, offender, alias or alternate ti
 
 ### C. Researched but not assigned (eligible; not excluded)
 
+| Reserve | `research/reserve/nyc-halloween-truck-attack/`, `research/reserve/cheri-jo-bates/` (this branch) | Preserved research, not assigned to any date |
+
 | Case | Evidence | Use in this batch |
 |---|---|---|
 | Taylor Van Diest | R6 `research/10-11-taylor-van-diest` (lucid-euler); R1 "package remains preserved" | **Reused → 10-29** |
 | Kendra Hatcher, Zilpha Lowery | R5 research folders | Not Halloween; not used |
 | `new_stories_need_review/` (170 files) | R5 | Candidate pool; none of the nine selected cases appear in it |
-| General "Zodiac Killer" case file | R5 `research/top_true_crime_case_deep_dives.md` (Case File 01) | **Related-case flag** for 10-27 Cheri Jo Bates (see below) |
+| General "Zodiac Killer" case file | R5 `research/top_true_crime_case_deep_dives.md` (Case File 01) | **Related-case flag** for reserve Cheri Jo Bates (formerly 10-27) (see below) |
 
-## Duplicate check of the nine selected cases
+## Duplicate check of the nine active cases (re-run 2026-10-11)
 
-Searched every R1–R9 path name and file content (case-insensitive) for victim, offender and alias names:
+Searched every R1–R9 path name and file content, plus the newer snapshot R1b/R1c (case-insensitive), for victim, offender, alias and alternate-title patterns. The 2026-10-11 re-run against `1b177f0` produced the same results for the seven retained cases:
 
 | Slot | Case | Patterns searched | Result |
 |---|---|---|---|
 | 10-23 | Lisa Ann French | `lisa ann french`, `gerald turner` | Only R1 (its own pre-assignment). **Unique.** |
-| 10-24 | NYC Halloween truck attack | `saipov`, `truck attack`, `bike path` | No hits. **Unique.** |
+| 10-24 | **Cindy Song** (active) | `cindy song`, `hyun jong`, `hyunjong`, `selenski`, `weakley`, `kerkowski`, `stacey/stacy paik` | Only hit: a two-case compilation video ("Death on Foreign Soil … Yoshihiro Hattori and Cindy Song") listed in the 10-05 Hattori demand research (R6 and `assets/stories/10-05-yoshihiro-hattori/…/demand-research.md` in R1b). Not a production or assignment. **Unique.** |
+| — | NYC Halloween truck attack (now **reserve**) | `saipov`, `truck attack`, `bike path` | R1c candidate shortlist only. Not assigned. |
 | 10-25 | Arpana Jinaga | `jinaga`, `emanuel fair` | No hits. **Unique.** |
 | 10-26 | Robin Hoynes | `hoynes`, `william charles marshall` | No hits. **Unique.** |
-| 10-27 | Cheri Jo Bates | `cheri jo`, `bates`, `zodiac` | "Bates" hits = the Bates family in the 10-03 O'Bryan timeline (different people). "Zodiac" hits = R5 candidate deep-dive and demand tables only. **Unique as a case; related-topic flag** — if a general Zodiac story is later scheduled, it will overlap. |
+| 10-27 | **Chris Jenkins** (active) | `chris jenkins`, `christopher jenkins`, `lone tree` | No hits in R1–R9 or R1b/R1c. **Unique.** (Searched production text excluding creator transcripts.) |
+| — | Cheri Jo Bates (now **reserve**) | `cheri jo`, `bates`, `zodiac` | "Bates" hits = the Bates family in the 10-03 O'Bryan timeline (different people). "Zodiac" hits = R5 candidate deep-dive and demand tables only. **Unique as a case; related-topic flag** — if a general Zodiac story is later scheduled, it will overlap. |
 | 10-28 | Karen Swift | `karen swift`, `david swift` | Only a "do not confuse" note in the 10-06 Chelsea Bruck research (Dateline title trap). **Unique.** |
 | 10-29 | Taylor Van Diest | `van diest`, `foerster` | Only R1 (preserved, unassigned) and R6 package. **Unique; reuse.** |
-| 10-30 | Napa Halloween murders | `insogna`, `mazzara`, `copple`, `napa` | "Napa" hits = Zodiac deep-dive location, unrelated build script. **Unique.** |
-| 10-31 | Teresa Halbach | `halbach`, `steven avery`, `dassey`, `making a murderer` | Only incidental mentions inside creator transcripts in the O'Bryan research. **Unique.** |
+| 10-31 | Napa Halloween murders (moved from 10-30) | `insogna`, `mazzara`, `copple`, `napa` | "Napa" hits = Zodiac deep-dive location, unrelated build script. **Unique.** |
+| 10-30 | Teresa Halbach (moved from 10-31) | `halbach`, `steven avery`, `dassey`, `making a murderer` | Only incidental mentions inside creator transcripts in the O'Bryan research. **Unique.** |
 
 ## Verification gaps (not inspected)
 
-1. **Local-only files on the production machine.** `ready_to_post/` and most of `assets/stories/` are git-ignored on the default branch; the `hermes/production-workflow` commit (`66451fa`, Oct 9) is the latest pushed snapshot. Anything created locally after that commit was not visible.
+1. **Local-only files on the production machine.** `ready_to_post/` and most of `assets/stories/` are git-ignored on the default branch; the newest pushed snapshot checked is `hermes/production-workflow` **`1b177f0` (Oct 10, 2026)**. Anything created or scheduled locally after that commit — including any change to the 10-23–10-31 calendar rows — was not visible.
 2. **Local Claude research checkout.** `research/claude-research-checkout.md` says the local `stfarm/research` checkout (branch `october-2026-all`) held 151 staged, **unpushed** additions on Oct 3. Its contents could not be inspected; it likely mirrors the three pushed batches, but that is unverified.
 3. **Publishing after Oct 5, 2026.** The newest YouTube Studio export ends Oct 5. TikTok/Instagram/Facebook post histories were not available in the repo.
 4. Notion and Google Drive returned no ThisHappened schedule; other accounts or tools (e.g., Hermes state databases on the workstation) were not accessible.

@@ -21,6 +21,13 @@ Access date for every source: **2026-10-10**. "Fetched" = page text read. "Snipp
 | 10-28-S007 | "Charges dismissed against David Swift in wife's death" | Court TV | Legal TV | 2025-03-18 | https://www.courttv.com/news/charges-dismissed-against-david-swift-in-wifes-death/ | Judge Hayes: statute of limitations had run. | Snippet (403) |
 | 10-28-S008 | "Tennessee mom disappears after returning from Halloween party \| 20/20 'Her Last Halloween' PART 1" | ABC News (YouTube) | Broadcaster documentary | 2024-11-02 | https://www.youtube.com/watch?v=hiy-2tFG0Nk | Title confirms "returning from Halloween party" framing; footage reference. | Metadata checked |
 
+## Sources added 2026-10-11 (status recheck)
+
+| ID | Title | Publisher | Type | Pub. date | URL | Supports | Status |
+|---|---|---|---|---|---|---|---|
+| 10-28-S009 | "Manslaughter Charges Against David Swift Dismissed" (Shannon McFarlin) | Radio NWTN (Union City/Martin, TN) | Local news | 2025-03-18 | https://www.radionwtn.com/2025/03/18/manslaughter-charges-against-david-swift-dismissed/ | DA Danny Goodman "will be appealing"; statute of limitations; reported missing Oct 30, 2011; body found Dec 2011; Alabama stalking charge. | Fetched (rendered) |
+| 10-28-S010 | Tennessee Court of Criminal Appeals opinion search ("David Swift") | tncourts.gov | Court website search | searched 2026-10-11 | https://www.tncourts.gov/courts/court-criminal-appeals/opinions?search_api_fulltext=%22David+Swift%22 | Returned "There are no opinions posted" — **absence of a posted opinion, not proof that no appeal exists**. | Searched |
+
 ## Contradictions
 
 | Point | Conflict | Handling |

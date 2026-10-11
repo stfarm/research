@@ -56,7 +56,9 @@ Slot status: **pre-assigned** in `research/october-2026-story-calendar.md` (prod
 | 2018–2019 | Venue moved to Dane County, then returned to Fond du Lac on appeal | 10-23-S002, 10-23-S005 | Medium |
 | Feb 23, 2022 | Judge orders him kept at secure facility (not a final commitment) | 10-23-S002 | Medium |
 | Dec 9, 2024 | Judge Nehls denies motion to dismiss | 10-23-S004 | High |
-| **Jan 19, 2027** | Scheduled commitment jury trial | 10-23-S003 | High (as of May 2026) |
+| Mar 8, 2024 | Commitment trial moved from Apr 16 to Dec 9, 2024 (evaluation pending; jury questionnaire) | 10-23-S012 | High |
+| Oct 4, 2024 | Dec 9 trial replaced by a summary-judgment hearing; no new trial date | 10-23-S013 | High |
+| **Jan 19, 2027** | Scheduled commitment jury trial | 10-23-S003, 10-23-S014 | Medium (latest record May 2026; recheck) |
 
 ## Investigation
 
@@ -65,7 +67,10 @@ Slot status: **pre-assigned** in `research/october-2026-story-calendar.md` (prod
 - **Confession** after about nine months (Aug 1974). At trial he said he confessed because he was "sick and tired of being harassed by police." [10-23-S006]
 - Lead investigator: **Melvin Heller**, then a Fond du Lac police captain, later chief. "Everybody that lives here always knows about Lisa French." [10-23-S005]
 
-## Legal status (verified 2026-10-10)
+## Legal status (searched 2026-10-11; latest corroborated record: May 21–27, 2026)
+
+Latest records: WBAY (May 21, 2026) and Fond du Lac Reporter (May 27, 2026) — jury trial set for January 2027 (Reporter: Jan 19, 2027). No later coverage found; the date may have moved. The case has been postponed repeatedly (trial set Apr 16 → Dec 9, 2024; Dec 9 converted to a summary-judgment hearing; dismissal denied Dec 2024; further probable-cause hearing denied July 2025). [10-23-S003, 10-23-S004, 10-23-S012, 10-23-S013]
+
 
 | Item | Status | Source |
 |---|---|---|

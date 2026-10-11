@@ -102,7 +102,7 @@ Research package. Not a script. Researched 2026-09-30 to 2026-10-01.
 - **B:** She was in costume (zombie), walking to meet friends for Halloween, when attacked. [10-11-S002, 10-11-S008]
 - Precision: she **died on November 1** in hospital. Say "attacked on Halloween", not "died on Halloween". [10-11-S008]
 
-## Legal status
+## Legal status (researched 2026-09-30 to 2026-10-01; latest corroborated record: Jun 2018 sentencing reports — parole status is projected from those reports, not a later record)
 
 | Stage | Detail | Source |
 |---|---|---|
